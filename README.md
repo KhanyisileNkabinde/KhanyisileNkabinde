@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TooPrettyTooCode16
+- 👋 Hi, I’m @KhanyisileNkabinde
 - 👀 I’m interested in Python and Java but mostly Agile 
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on small projects with Python
